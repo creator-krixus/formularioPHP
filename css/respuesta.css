@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    text-align: center;
+}
+
+button {
+
+    border-radius: 6px;
+    height: 60px;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+
+}
+
+.principal {
+    text-decoration: none;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}

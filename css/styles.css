@@ -1,0 +1,15 @@
+.suscribir{
+    padding: 50px;
+    text-decoration: none;
+    font-size: 26px;
+    
+}
+body{
+    background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);
+}
+button{
+    margin: 300px;
+    border-radius: 6px;
+    height: 80px;
+    margin-left: 450px;
+}

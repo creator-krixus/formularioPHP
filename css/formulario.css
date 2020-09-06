@@ -1,0 +1,15 @@
+div{
+    margin-left:300px ;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    width: max-content;
+    margin-top: 50px;
+}
+form{
+    border: solid 1px;
+    text-align: center;
+    width: 500px;
+    
+}
+body{
+    background:aqua;
+}
